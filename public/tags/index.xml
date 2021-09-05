@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Sociedade do Espetáculo</title>
-    <link>https://www.example.com/tags/</link>
+    <link>https://silly-edison-9011cb.netlify.app/public/tags/</link>
     <description>Recent content in Tags on A Sociedade do Espetáculo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://silly-edison-9011cb.netlify.app/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
